@@ -1,0 +1,9 @@
+.env
+frames/
+*.mov
+*.png
+__pycache__/
+.vscode/
+
+.DS_Store
+*.mp4
